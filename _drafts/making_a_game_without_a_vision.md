@@ -1,0 +1,5 @@
+---
+layout: post
+title: Making a game without a vision
+---
+For the past month, I've been working on a game in my spare time but lately, I've found that html5 (the platform I've been using to work on my game) may not have been the best choice. The primary reason for that being that I'm not entirely sure that I'm interested in building a game that will run on desktop and on mobile (which is a requirement for getting sponsorships). Also, I've found that idea of what the finished product will be is primarily a mobile game. I suppose this is the reason that a lot of people create a formal game design document before beginning development as doing that decreases the probability of issues like this occuring. Nevertheless, I've decided that my game (which takes a little too much inspiration from Space Invaders) will be developed for mobile.
