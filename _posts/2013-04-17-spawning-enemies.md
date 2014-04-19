@@ -13,9 +13,9 @@ in Unity3D and then I was done. The code itself is written in C# and
 takes a few different parameters.
 {%highlight C# %}
 //exponential function that dictates the interval at which asteroids spawn
-	float calculateNewInterval(float yintercept,float asymptote,float b,int numberOfSpawns){
-		return (yintercept-asymptote)*Mathf.Pow(b,(-1F/stretch)*numberOfSpawns)+asymptote;
-	}
+float calculateNewInterval(float yintercept,float asymptote,float b,int numberOfSpawns){
+	return (yintercept-asymptote)*Mathf.Pow(b,(-1F/stretch)*numberOfSpawns)+asymptote;
+}
 {% endhighlight %}
 ![Graph of Exponential Function](/images/GraphOfEnemySpawningFunction.jpg)
 In the code, *yintercept* is the point at which the exponential function
