@@ -1,3 +1,9 @@
 name: Javed's Blog
 markdown: redcarpet
 pygments: true
+description: A pretty crappy blog
+author: Javed Nissar
+url: /
+copyright: 2014 Javed Nissar
+rss_name: javedsblog.xml
+rss_post_limit: 10
