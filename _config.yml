@@ -1,6 +1,6 @@
 name: Javed's Blog
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 description: A pretty crappy blog
 author: Javed Nissar
 url: /
